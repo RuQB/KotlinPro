@@ -1,0 +1,346 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.compose.material3:material3-android:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\66f275e77d49ebac5b39c0b2f59989d9\transformed\material3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\62ef3f8bd03afba71a389187a9a7b4cb\transformed\animation-core\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\20fa0fa86467df6dc9222dd3a4428fe7\transformed\material-ripple\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\926a91d9a070c54c0e9bf691f47bd1cc\transformed\animation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\1d00a657283489f55d9920fdf8709711\transformed\foundation-layout\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\03535afc542a72211d16eee98ddf36ea\transformed\foundation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\1658afc9a775f7fa9461790b332cd97a\transformed\ui-unit\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\920e26f53d10fe364bb2abc0dab4f606\transformed\ui-geometry\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\bbb49e07d3d1dd1daa14b99b0af26f50\transformed\ui-util\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\26a18d14e27c496fbf31df6e83503b2e\transformed\ui-text\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\ffd4d39eeec2e017bc7c2fdbfcf79d4c\transformed\ui-tooling-preview\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\f1aa0e616f5e0a366f9955f78f5058fa\transformed\ui-graphics\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\youma\.gradle\caches\9.7.1\transforms\32a09dcc4fbc3a4e3c74e26af91af490\transformed\activity-1.8.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\youma\.gradle\caches\9.7.1\transforms\d3bf5703f02c1fd0b6498ba9a131b63a\transformed\activity-ktx-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\youma\.gradle\caches\9.7.1\transforms\bd4ab754fe5f8ff349671a972f85b30f\transformed\activity-compose-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\9221212a6b107ca1e395d621bc0dcbdc\transformed\ui\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\c329a122f5be726769e4b3196d093515\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.6.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\bc98403c395ea0b2e9a7ffa3f44ea480\transformed\transition-1.6.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-core-android:1.5.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\d6d9a4097db23fa2256fd823a3b00b2b\transformed\window-core\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.5.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\74155e877464a6dbf7602e1374683f81\transformed\window-1.5.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\youma\.gradle\caches\9.7.1\transforms\2bfab2942576911dad996eced2ade66f\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\2bb825208bf076052cb82c9a8be60b1b\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\dda8afc568b70a3716afed877b787d0e\transformed\emoji2-1.4.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\6fe6067f6372b196ab452fce7ca51c5a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\abcca92d31fb912bc8d48b69a98d55a3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\26e40a002a36a59a73846e642f1be6e2\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\f1feeff388f00339d5108500b1e0946b\transformed\lifecycle-livedata-core-ktx-2.9.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\81aa00235bda7b727949d3229c0b0a02\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\2a665ca0ca4cc747db719e3db85c43c8\transformed\lifecycle-livedata-2.9.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\061b62216c3b95873eafad1de078f6d4\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\a8edce6e09e82153f92d79a1980b21c5\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.2] C:\Users\youma\.gradle\caches\9.7.1\transforms\57aa9ae00b133fbbb9948ff1b52c6a70\transformed\savedstate-ktx-1.3.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.2] C:\Users\youma\.gradle\caches\9.7.1\transforms\8efec058f81ed0c6df3fd7fb8bcbd0a7\transformed\savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\26405ccf003d60f38e2224eaf639f23b\transformed\lifecycle-viewmodel-2.9.4\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\5339c46fe177ca0626b5cb6f2afcce52\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\88271245f66896aad1e5821c6beb2276\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\12432de24041ba0e334089583af8900a\transformed\runtime-annotation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\032cea906409abbb16d6801c674f351a\transformed\runtime-retain\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\a7ec10fd99bd309827104fb651dbaf97\transformed\runtime\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\944ada58802f58715d7a4bb4c28a88ef\transformed\runtime-saveable\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.2] C:\Users\youma\.gradle\caches\9.7.1\transforms\4be948496ef34de53cdfd415b77ac8d7\transformed\savedstate-compose\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\5d94ae33af7d4bbfb9bc9e6117334c38\transformed\core-ktx-1.16.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.16.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\918bbc8f9d15ca164df6376c69c024f8\transformed\core-1.16.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\d9b3905d2975b9861a78a19bc00abfe2\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\8cc577457d85d934146a0e1855270a77\transformed\lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\3988d1d42dfb2023a3380e15a7673019\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\youma\.gradle\caches\9.7.1\transforms\446396e08b3a3c2fecba87bddf1cd5a1\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\youma\.gradle\caches\9.7.1\transforms\e89d52afeb1e5b35637f6d75cfb1ade4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\b7920eba3e0bfa3b5a933d91670b1511\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\youma\.gradle\caches\9.7.1\transforms\2bf53efeb99548c6dad4cde3523618fb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\ff62a05e4a8b5564df05fdb9056b8c1e\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\1a9a53e6af1dc5b69d717df428c2e2aa\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\a695b38f4ea100071f52a3459ed3e9d3\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4b8dc99136ee1bfb090e1bbb14b8a8ce\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\f5c4591ed44f6728fe161e12d51bff7d\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\125ff6b30d40b0f4d5788401dcc65c72\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:4:5-21:19
+INJECTED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:4:5-21:19
+MERGED from [androidx.window:window:1.5.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\74155e877464a6dbf7602e1374683f81\transformed\window-1.5.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.5.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\74155e877464a6dbf7602e1374683f81\transformed\window-1.5.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\dda8afc568b70a3716afed877b787d0e\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\dda8afc568b70a3716afed877b787d0e\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\a8edce6e09e82153f92d79a1980b21c5\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\a8edce6e09e82153f92d79a1980b21c5\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.16.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\918bbc8f9d15ca164df6376c69c024f8\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\918bbc8f9d15ca164df6376c69c024f8\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\youma\.gradle\caches\9.7.1\transforms\e89d52afeb1e5b35637f6d75cfb1ade4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\youma\.gradle\caches\9.7.1\transforms\e89d52afeb1e5b35637f6d75cfb1ade4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\youma\.gradle\caches\9.7.1\transforms\2bf53efeb99548c6dad4cde3523618fb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\youma\.gradle\caches\9.7.1\transforms\2bf53efeb99548c6dad4cde3523618fb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\918bbc8f9d15ca164df6376c69c024f8\transformed\core-1.16.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:10:9-48
+activity#com.example.calculator.MainActivity
+ADDED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:screenOrientation
+		ADDED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:15:13-49
+	android:exported
+		ADDED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml
+INJECTED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml
+MERGED from [androidx.compose.material3:material3-android:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\66f275e77d49ebac5b39c0b2f59989d9\transformed\material3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\66f275e77d49ebac5b39c0b2f59989d9\transformed\material3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\62ef3f8bd03afba71a389187a9a7b4cb\transformed\animation-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\62ef3f8bd03afba71a389187a9a7b4cb\transformed\animation-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\20fa0fa86467df6dc9222dd3a4428fe7\transformed\material-ripple\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\20fa0fa86467df6dc9222dd3a4428fe7\transformed\material-ripple\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\926a91d9a070c54c0e9bf691f47bd1cc\transformed\animation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\926a91d9a070c54c0e9bf691f47bd1cc\transformed\animation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\1d00a657283489f55d9920fdf8709711\transformed\foundation-layout\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\1d00a657283489f55d9920fdf8709711\transformed\foundation-layout\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\03535afc542a72211d16eee98ddf36ea\transformed\foundation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\03535afc542a72211d16eee98ddf36ea\transformed\foundation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\1658afc9a775f7fa9461790b332cd97a\transformed\ui-unit\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\1658afc9a775f7fa9461790b332cd97a\transformed\ui-unit\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\920e26f53d10fe364bb2abc0dab4f606\transformed\ui-geometry\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\920e26f53d10fe364bb2abc0dab4f606\transformed\ui-geometry\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\bbb49e07d3d1dd1daa14b99b0af26f50\transformed\ui-util\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\bbb49e07d3d1dd1daa14b99b0af26f50\transformed\ui-util\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\26a18d14e27c496fbf31df6e83503b2e\transformed\ui-text\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\26a18d14e27c496fbf31df6e83503b2e\transformed\ui-text\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\ffd4d39eeec2e017bc7c2fdbfcf79d4c\transformed\ui-tooling-preview\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\ffd4d39eeec2e017bc7c2fdbfcf79d4c\transformed\ui-tooling-preview\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\f1aa0e616f5e0a366f9955f78f5058fa\transformed\ui-graphics\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\f1aa0e616f5e0a366f9955f78f5058fa\transformed\ui-graphics\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\youma\.gradle\caches\9.7.1\transforms\32a09dcc4fbc3a4e3c74e26af91af490\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\youma\.gradle\caches\9.7.1\transforms\32a09dcc4fbc3a4e3c74e26af91af490\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\youma\.gradle\caches\9.7.1\transforms\d3bf5703f02c1fd0b6498ba9a131b63a\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\youma\.gradle\caches\9.7.1\transforms\d3bf5703f02c1fd0b6498ba9a131b63a\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\youma\.gradle\caches\9.7.1\transforms\bd4ab754fe5f8ff349671a972f85b30f\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\youma\.gradle\caches\9.7.1\transforms\bd4ab754fe5f8ff349671a972f85b30f\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\9221212a6b107ca1e395d621bc0dcbdc\transformed\ui\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\9221212a6b107ca1e395d621bc0dcbdc\transformed\ui\AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\c329a122f5be726769e4b3196d093515\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\c329a122f5be726769e4b3196d093515\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.6.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\bc98403c395ea0b2e9a7ffa3f44ea480\transformed\transition-1.6.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.6.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\bc98403c395ea0b2e9a7ffa3f44ea480\transformed\transition-1.6.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-core-android:1.5.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\d6d9a4097db23fa2256fd823a3b00b2b\transformed\window-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-core-android:1.5.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\d6d9a4097db23fa2256fd823a3b00b2b\transformed\window-core\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.5.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\74155e877464a6dbf7602e1374683f81\transformed\window-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.5.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\74155e877464a6dbf7602e1374683f81\transformed\window-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\youma\.gradle\caches\9.7.1\transforms\2bfab2942576911dad996eced2ade66f\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\youma\.gradle\caches\9.7.1\transforms\2bfab2942576911dad996eced2ade66f\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\2bb825208bf076052cb82c9a8be60b1b\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\2bb825208bf076052cb82c9a8be60b1b\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\dda8afc568b70a3716afed877b787d0e\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\dda8afc568b70a3716afed877b787d0e\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\6fe6067f6372b196ab452fce7ca51c5a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\6fe6067f6372b196ab452fce7ca51c5a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\abcca92d31fb912bc8d48b69a98d55a3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\abcca92d31fb912bc8d48b69a98d55a3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\26e40a002a36a59a73846e642f1be6e2\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\26e40a002a36a59a73846e642f1be6e2\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\f1feeff388f00339d5108500b1e0946b\transformed\lifecycle-livedata-core-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\f1feeff388f00339d5108500b1e0946b\transformed\lifecycle-livedata-core-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\81aa00235bda7b727949d3229c0b0a02\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\81aa00235bda7b727949d3229c0b0a02\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\2a665ca0ca4cc747db719e3db85c43c8\transformed\lifecycle-livedata-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\2a665ca0ca4cc747db719e3db85c43c8\transformed\lifecycle-livedata-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\061b62216c3b95873eafad1de078f6d4\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\061b62216c3b95873eafad1de078f6d4\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\a8edce6e09e82153f92d79a1980b21c5\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\a8edce6e09e82153f92d79a1980b21c5\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.2] C:\Users\youma\.gradle\caches\9.7.1\transforms\57aa9ae00b133fbbb9948ff1b52c6a70\transformed\savedstate-ktx-1.3.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.2] C:\Users\youma\.gradle\caches\9.7.1\transforms\57aa9ae00b133fbbb9948ff1b52c6a70\transformed\savedstate-ktx-1.3.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.2] C:\Users\youma\.gradle\caches\9.7.1\transforms\8efec058f81ed0c6df3fd7fb8bcbd0a7\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.2] C:\Users\youma\.gradle\caches\9.7.1\transforms\8efec058f81ed0c6df3fd7fb8bcbd0a7\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\26405ccf003d60f38e2224eaf639f23b\transformed\lifecycle-viewmodel-2.9.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\26405ccf003d60f38e2224eaf639f23b\transformed\lifecycle-viewmodel-2.9.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\5339c46fe177ca0626b5cb6f2afcce52\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\5339c46fe177ca0626b5cb6f2afcce52\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\88271245f66896aad1e5821c6beb2276\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\88271245f66896aad1e5821c6beb2276\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\12432de24041ba0e334089583af8900a\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\12432de24041ba0e334089583af8900a\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\032cea906409abbb16d6801c674f351a\transformed\runtime-retain\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-retain-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\032cea906409abbb16d6801c674f351a\transformed\runtime-retain\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\a7ec10fd99bd309827104fb651dbaf97\transformed\runtime\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\a7ec10fd99bd309827104fb651dbaf97\transformed\runtime\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\944ada58802f58715d7a4bb4c28a88ef\transformed\runtime-saveable\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.10.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\944ada58802f58715d7a4bb4c28a88ef\transformed\runtime-saveable\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.2] C:\Users\youma\.gradle\caches\9.7.1\transforms\4be948496ef34de53cdfd415b77ac8d7\transformed\savedstate-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.2] C:\Users\youma\.gradle\caches\9.7.1\transforms\4be948496ef34de53cdfd415b77ac8d7\transformed\savedstate-compose\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\5d94ae33af7d4bbfb9bc9e6117334c38\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\5d94ae33af7d4bbfb9bc9e6117334c38\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.16.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\918bbc8f9d15ca164df6376c69c024f8\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\918bbc8f9d15ca164df6376c69c024f8\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\d9b3905d2975b9861a78a19bc00abfe2\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\d9b3905d2975b9861a78a19bc00abfe2\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\8cc577457d85d934146a0e1855270a77\transformed\lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\8cc577457d85d934146a0e1855270a77\transformed\lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\3988d1d42dfb2023a3380e15a7673019\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\3988d1d42dfb2023a3380e15a7673019\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\youma\.gradle\caches\9.7.1\transforms\446396e08b3a3c2fecba87bddf1cd5a1\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\youma\.gradle\caches\9.7.1\transforms\446396e08b3a3c2fecba87bddf1cd5a1\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\youma\.gradle\caches\9.7.1\transforms\e89d52afeb1e5b35637f6d75cfb1ade4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\youma\.gradle\caches\9.7.1\transforms\e89d52afeb1e5b35637f6d75cfb1ade4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\b7920eba3e0bfa3b5a933d91670b1511\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\b7920eba3e0bfa3b5a933d91670b1511\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\youma\.gradle\caches\9.7.1\transforms\2bf53efeb99548c6dad4cde3523618fb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\youma\.gradle\caches\9.7.1\transforms\2bf53efeb99548c6dad4cde3523618fb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\ff62a05e4a8b5564df05fdb9056b8c1e\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\ff62a05e4a8b5564df05fdb9056b8c1e\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\1a9a53e6af1dc5b69d717df428c2e2aa\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\1a9a53e6af1dc5b69d717df428c2e2aa\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\a695b38f4ea100071f52a3459ed3e9d3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\a695b38f4ea100071f52a3459ed3e9d3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4b8dc99136ee1bfb090e1bbb14b8a8ce\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4b8dc99136ee1bfb090e1bbb14b8a8ce\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\f5c4591ed44f6728fe161e12d51bff7d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\f5c4591ed44f6728fe161e12d51bff7d\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\125ff6b30d40b0f4d5788401dcc65c72\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\125ff6b30d40b0f4d5788401dcc65c72\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\AndroidProjects\Calculator\app\src\main\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.5.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\74155e877464a6dbf7602e1374683f81\transformed\window-1.5.0\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.5.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\74155e877464a6dbf7602e1374683f81\transformed\window-1.5.0\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.5.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\74155e877464a6dbf7602e1374683f81\transformed\window-1.5.0\AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.5.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\74155e877464a6dbf7602e1374683f81\transformed\window-1.5.0\AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.5.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\74155e877464a6dbf7602e1374683f81\transformed\window-1.5.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.5.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\74155e877464a6dbf7602e1374683f81\transformed\window-1.5.0\AndroidManifest.xml:27:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\dda8afc568b70a3716afed877b787d0e\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\a8edce6e09e82153f92d79a1980b21c5\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\a8edce6e09e82153f92d79a1980b21c5\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\youma\.gradle\caches\9.7.1\transforms\2bf53efeb99548c6dad4cde3523618fb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\youma\.gradle\caches\9.7.1\transforms\2bf53efeb99548c6dad4cde3523618fb\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\dda8afc568b70a3716afed877b787d0e\transformed\emoji2-1.4.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\dda8afc568b70a3716afed877b787d0e\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\dda8afc568b70a3716afed877b787d0e\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\dda8afc568b70a3716afed877b787d0e\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\dda8afc568b70a3716afed877b787d0e\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\dda8afc568b70a3716afed877b787d0e\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\dda8afc568b70a3716afed877b787d0e\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\a8edce6e09e82153f92d79a1980b21c5\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\a8edce6e09e82153f92d79a1980b21c5\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\youma\.gradle\caches\9.7.1\transforms\a8edce6e09e82153f92d79a1980b21c5\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\918bbc8f9d15ca164df6376c69c024f8\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\918bbc8f9d15ca164df6376c69c024f8\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\918bbc8f9d15ca164df6376c69c024f8\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+permission#com.example.calculator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\918bbc8f9d15ca164df6376c69c024f8\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\918bbc8f9d15ca164df6376c69c024f8\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\918bbc8f9d15ca164df6376c69c024f8\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\918bbc8f9d15ca164df6376c69c024f8\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\918bbc8f9d15ca164df6376c69c024f8\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.calculator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\918bbc8f9d15ca164df6376c69c024f8\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\918bbc8f9d15ca164df6376c69c024f8\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\youma\.gradle\caches\9.7.1\transforms\4e201d126b7c64ce7159f03b38fa89ba\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

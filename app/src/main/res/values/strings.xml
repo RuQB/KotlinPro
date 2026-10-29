@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="calc_error">Ошибка</string>
+</resources>

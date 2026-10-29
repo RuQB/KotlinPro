@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#17171B</color>
+    <string name="app_name">Калькулятор</string>
+    <string name="calc_error">Ошибка</string>
+    <style name="Theme.Calculator" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
